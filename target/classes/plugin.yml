@@ -1,0 +1,5 @@
+name: Security
+main: Security
+author: funkemunky
+depend: [Commons]
+version: 1.0
